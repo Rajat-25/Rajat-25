@@ -1,8 +1,6 @@
 <h1 align="center">Hi there👋, I'm Rajat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat-25&label=Profile%20views&color=1a71a8&style=flat" alt="rajat-25" /> </p>
-
 - 🌱 I’m currently learning **Full stack web development**
 - 👯 I’m looking to collaborate on **Open source projects**
 
