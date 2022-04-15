@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Full stack web development**
-- 👯 I’m looking to collaborate on **Open source projects**
-
 <p align="left">
 </p>
 
