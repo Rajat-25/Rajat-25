@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Rajat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Full stack web development**
+<!-- - 🌱 I’m currently learning **Full stack web development** -->
 <p align="left">
 </p>
 
